@@ -41,7 +41,7 @@ This Python application provides an easy-to-use GUI for downloading videos and a
 3. **Run the Application**: Run the script using the command:
 
    ```sh
-   python video_downloader.py
+   python app.py
    ```
 
 4. **Usage**:
